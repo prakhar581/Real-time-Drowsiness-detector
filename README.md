@@ -1,1 +1,2 @@
-# Real-time-Drowsiness-detector
+# Real-time-Drowsiness-detector (My 3rd year project)
+This code  works great in real time . So i will explain its use in real work. We can use a cam on dashbord(hope i get this correct) in a car which capture the face of driver. Now it's work on facial landmark detection which will count how many time driver is Yawning (let's say 3) and generate a warning but the great feature which it's use is if driver eyes get closed(or almost closed) it will directly let alarm beep and send message to his/her family member(ofcourse optional) and prevent probable accidents from happening.
